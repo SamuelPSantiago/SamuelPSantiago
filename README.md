@@ -3,6 +3,8 @@ Olá meu nome é Samuel Pinheiro e é um prazer te receber aqui
 <div align="center">
   <a href="https://github.com/SamuelPSantiago">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelPSantiago&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelPSantiago&" alt="SamuelPSantiago" width="70%" /></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelPSantiago&show_icons=true&locale=en&layout=compact" alt="SamuelPSantiago" width="70%" /></p>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Samu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
