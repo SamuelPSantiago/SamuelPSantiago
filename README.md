@@ -1,5 +1,7 @@
 <h2 align="center">Olá, meu nome é Samuel Pinheiro 👋👋</h2>
 
+<p> Sou um projeto de programador em desenvolvimento desde 2017!</p>
+
 <div align="center">
   <a href="https://github.com/SamuelPSantiago">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=SamuelPSantiago&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="70%"/>
