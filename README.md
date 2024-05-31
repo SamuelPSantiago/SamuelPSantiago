@@ -9,3 +9,5 @@ Até que entrei em uma empresa em que foquei na parte de backend, pude desenvolv
 
 Tenho como metas de vida desenvolver e aprimorar a tecnologia de maneira a auxiliar a sociedade. Além de transmitir o conhecimento que eu adquir durante minha jornada para as próximas gerações de programadores.
 </p>
+
+<a href="https://wakatime.com/@6ecf4756-d7cd-4132-b781-927116bd0328"><img src="https://wakatime.com/badge/user/6ecf4756-d7cd-4132-b781-927116bd0328.svg" alt="Total time coded since Oct 1 2022" /></a>
