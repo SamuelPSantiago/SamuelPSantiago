@@ -11,5 +11,4 @@ Tenho como metas de vida desenvolver e aprimorar a tecnologia de maneira a auxil
 </p>
 
 <a href="https://wakatime.com/@6ecf4756-d7cd-4132-b781-927116bd0328"><img src="https://wakatime.com/badge/user/6ecf4756-d7cd-4132-b781-927116bd0328.svg" alt="Total time coded since Oct 1 2022" /></a>
-
-<figure><embed src="https://wakatime.com/share/@samuelpsantiago/0f4e0092-46c0-482e-be1a-0548ba09bbe8.svg"></embed></figure>
+<a href="https://wakatime.com/share/@samuelpsantiago/f898e614-727b-495b-93c4-0d807bde0c25"><img src="https://wakatime.com/share/@samuelpsantiago/f898e614-727b-495b-93c4-0d807bde0c25.svg" alt="Since Oct 1 2022" /></a>
