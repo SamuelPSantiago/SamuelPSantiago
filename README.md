@@ -1,8 +1,8 @@
-<h2 align="center">Olá, meu nome é Samuel Pinheiro 👋👋</h2>
+<h2 align="center">Hello, my name is Samuel Pinheiro 👋👋</h2>
 
-<p> Sou um Programador Full-Stack apaixonado pela resolução de problemas! Comecei a programar C# em 2019 na área do desenvolvimento de jogos, utilizando a Unity. Durante minha carreira já passei por algumas startups e empresas onde pude aprimorar minhas habilidades nas mais diversas áreas.
+<p> I'm a Full-Stack Programmer passionate about problem solving! I started programming C# in 2019 in the area of ​​game development, using Unity. During my career I have worked at some startups and companies where I was able to improve my skills in the most diverse areas.
 
-Atualmente, atuo com o foco em desenvolvimento Back-End usando linguagens como C#, Typescript e PHP. E ultilizando as mais diversas ferramentas como AWS e Docker.
+Currently, I focus on Back-End development using languages ​​such as C#, Typescript and PHP. And using the most diverse tools such as AWS and Docker.
 
-Tenho como metas de vida desenvolver e aprimorar a tecnologia de maneira a auxiliar a sociedade. Além de transmitir o conhecimento que eu adquir durante minha jornada para as próximas gerações de programadores.
+My life goals are to develop and improve technology in order to help society. In addition to transmitting the knowledge I acquired during my journey to the next generations of programmers.
 </p>
