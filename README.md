@@ -12,8 +12,6 @@
 
 ---
 
-### About Me
-
 ### About
 
 I have 5+ years of experience developing scalable full-stack solutions, with a strong focus on backend engineering, system architecture, integrations, and performance.
